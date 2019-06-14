@@ -3,9 +3,9 @@ Anagram Comparison
 
 Find out if two words are anagrams of each other
 
-Languages
+Technologies
 ------
-Java
+. Java
 
 Author
 ------
